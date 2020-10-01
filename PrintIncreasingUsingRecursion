@@ -8,9 +8,9 @@ public class PrintIncreasing {
 
 		
 		Scanner s = new Scanner(System.in);
-		int n = s.nextInt();
+		int no = s.nextInt();
 		
-		PrintIncreasing(n);
+		PrintIncreasing(no);
 		
 	}
 	
